@@ -1,0 +1,1 @@
+print("Hello This is my Takal Game developed by using Deepseek and the concept that I get")
